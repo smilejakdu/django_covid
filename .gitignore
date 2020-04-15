@@ -5,6 +5,7 @@ Dockerfile
 
 ### Django ###
 .idea/
+scraping
 my_settings.py
 *.log
 *.pot
